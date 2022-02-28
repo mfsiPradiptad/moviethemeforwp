@@ -1,0 +1,11 @@
+@media (min-width: 787px) {
+    input.social-inputs {
+        width: 40%;
+    }
+}
+
+.add-picks-btn {
+    background: rgb(34 113 177);
+    color: white;
+    border: none;
+}
